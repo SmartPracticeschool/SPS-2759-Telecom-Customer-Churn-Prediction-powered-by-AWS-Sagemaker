@@ -7,4 +7,12 @@ The ability to predict that a particular customer is at a high risk of churning,
 
 Churn prediction helps in identifying those customers who are likely to leave a company. The main contribution of our work is to develop a churn prediction model which assists telecom operators to predict customers who are most likely subject to churn. Our solution builds & deploys a Machine Learning model to predict the customer churn using Amazon SageMaker and predictions can be obtained by using its Endpoint. We have created a python - flask application that interacts with the model deployed on AWS Sagemaker with the help of AWS API Gateway and AWS Lambda Services.
 
-# Proposed Architecture:
+# Steps involved:
+
+Upload data on Amazon S3
+Model deployment on Amazon Sagemaker
+Configuration on AWS Lamda
+Working with Rest API through AWS API Gateway
+Web Application in Flask
+Language used: Python
+
