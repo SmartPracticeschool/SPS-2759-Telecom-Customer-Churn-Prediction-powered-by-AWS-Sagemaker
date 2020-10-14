@@ -1,5 +1,5 @@
 ﻿# SPS-2759-Telecom-Customer-Churn-Prediction-powered-by-AWS-Sagemaker
-# Purpose
+# Purpose:
 
 The ability to predict that a particular customer is at a high risk of churning, while there is still time to do something about it, represents a huge additional potential revenue source for every online business. Besides the direct loss of revenue that results from a customer abandoning the business, the costs of initially acquiring that customer may not have already been covered by the customer’s spending to date. (In other words, acquiring that customer may have actually been a losing investment.) Furthermore, it is always more difficult and expensive to acquire a new customer than it is to retain a current paying customer.
 
@@ -9,10 +9,10 @@ Churn prediction helps in identifying those customers who are likely to leave a 
 
 # Steps involved:
 
-Upload data on Amazon S3
-Model deployment on Amazon Sagemaker
-Configuration on AWS Lamda
-Working with Rest API through AWS API Gateway
-Web Application in Flask
+Upload data on Amazon S3<br />
+Model deployment on Amazon Sagemaker<br />
+Configuration on AWS Lamda<br />
+Working with Rest API through AWS API Gateway<br />
+Web Application in Flask<br />
 Language used: Python
 
